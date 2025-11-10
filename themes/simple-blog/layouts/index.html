@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ .Content }}
+
+<h2 style="margin-top: 3rem; margin-bottom: 2rem; border-top: 2px solid var(--border-color); padding-top: 2rem;">Recent Posts</h2>
+
+<ul class="post-list">
+    {{ range first 10 (where .Site.RegularPages "Type" "posts") }}
+    <li>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <div class="meta">
+            <span>{{ .Date.Format "January 2, 2006" }}</span>
+            {{ if .Params.tags }}
+            <div class="tags">
+                {{ range .Params.tags }}
+                <a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+        {{ if .Description }}
+        <p>{{ .Description }}</p>
+        {{ else }}
+        <p>{{ .Summary }}</p>
+        {{ end }}
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
+

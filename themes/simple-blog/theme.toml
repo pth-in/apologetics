@@ -1,0 +1,6 @@
+name = "simple-blog"
+license = "MIT"
+min_version = "0.40.0"
+tags = ["blog", "minimal", "clean"]
+description = "A clean and simple blog theme for Hugo"
+

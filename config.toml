@@ -1,0 +1,22 @@
+baseURL = 'https://pth-in.github.io/apologetics/'
+languageCode = 'en-us'
+title = 'Apologetics'
+theme = 'simple-blog'
+
+[params]
+  author = "Apologetics Blog"
+  description = "Evidence-based Christian apologetics and scholarly responses"
+  keywords = "apologetics, christianity, theology, history, biblical studies"
+  
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[markup]
+  [markup.highlight]
+    style = "github"
+    codeFences = true
+
