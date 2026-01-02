@@ -7,6 +7,7 @@ theme = 'simple-blog'
   author = "Apologetics Blog"
   description = "Evidence-based Christian apologetics and scholarly responses"
   keywords = "apologetics, christianity, theology, history, biblical studies"
+  github = "pth-in"
   
 [menu]
   [[menu.main]]

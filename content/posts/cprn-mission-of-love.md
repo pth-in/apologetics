@@ -1,6 +1,6 @@
 ---
 title: "Serving the Persecuted: A Mission of Love and Non-Violence"
-date: 2026-01-03
+date: 2026-01-02
 draft: false
 tags: ["CPRN", "Jesus", "Love", "Persecution", "Missions"]
 categories: ["Spiritual Missions"]
