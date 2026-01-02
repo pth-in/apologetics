@@ -4,7 +4,7 @@
 <h2 style="margin-top: 3rem; margin-bottom: 2rem; border-top: 2px solid var(--border-color); padding-top: 2rem;">Recent Posts</h2>
 
 <ul class="post-list">
-    {{ range first 10 (where .Site.RegularPages "Type" "posts") }}
+    {{ range .Site.RegularPages }}
     <li>
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <div class="meta">
