@@ -18,3 +18,5 @@ Thumbs.db
 *.tmp
 *.log
 
+# Ignore local test.txt
+test.txt
