@@ -303,6 +303,16 @@
     <footer>
         <div class="container">
             <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+            {{ if or .Site.Params.twitter .Site.Params.github }}
+            <div style="margin-top: 1rem; color: var(--text-light); font-size: 0.9rem;">
+                {{ if .Site.Params.twitter }}
+                <a href="https://twitter.com/{{ .Site.Params.twitter }}" style="color: var(--text-light); text-decoration: none; margin-right: 1rem;">Twitter: @{{ .Site.Params.twitter }}</a>
+                {{ end }}
+                {{ if .Site.Params.github }}
+                <a href="https://github.com/{{ .Site.Params.github }}" style="color: var(--text-light); text-decoration: none;">GitHub: {{ .Site.Params.github }}</a>
+                {{ end }}
+            </div>
+            {{ end }}
         </div>
     </footer>
 </body>
