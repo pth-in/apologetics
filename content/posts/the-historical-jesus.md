@@ -20,14 +20,14 @@ But why is the scholarly community so certain? Because the evidence demands it. 
 When looking for impartial evidence, the meticulous record-keepers of the Roman Empire are the perfect place to start. 
 
 ### Tacitus: The Annihilation of a Rumor
-Cornelius Tacitus is widely considered one of the greatest Roman historians. In his *Annals* (Book 15, Chapter 44), written around AD 116, he details the aftermath of the catastrophic Great Fire of Rome under Emperor Nero in AD 64. Desperately needing a scapegoat, Nero blamed a new, growing sect:
+Cornelius Tacitus is widely considered one of the greatest Roman historians. In his [*Annals* (Book 15, Chapter 44)](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0078%3Abook%3D15%3Achapter%3D44), written around AD 116, he details the aftermath of the catastrophic Great Fire of Rome under Emperor Nero in AD 64. Desperately needing a scapegoat, Nero blamed a new, growing sect:
 
 > *"Nero fastened the guilt and inflicted the most exquisite tortures on a class hated for their abominations, called Christians by the populace. Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus..."*
 
 Tacitus—who had zero sympathy for Christians—confirms precisely what the Bible claims regarding the time, the place, and the man responsible (Pontius Pilate) for the execution of Christ.
 
 ### Suetonius: The Riots over "Chrestus"
-Another prominent Roman historian, Suetonius, writing around AD 112 in his *Life of Claudius* (25.4), mentions an event that directly lines up with the expulsion of Jews from Rome in AD 49 (an event also recorded in Acts 18:2). He writes:
+Another prominent Roman historian, Suetonius, writing around AD 112 in his [*Life of Claudius* (25.4)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html#25.4), mentions an event that directly lines up with the expulsion of Jews from Rome in AD 49 (an event also recorded in Acts 18:2). He writes:
 
 > *"Since the Jews constantly made disturbances at the instigation of Chrestus, he expelled them from Rome."*
 
@@ -38,7 +38,7 @@ Another prominent Roman historian, Suetonius, writing around AD 112 in his *Life
 ## The Jewish Testimony: The Bridge
 
 ### Flavius Josephus
-Flavius Josephus was a first-century Romano-Jewish historian and military leader. He was not a Christian—in fact, he worked for the Romans. In his monumental work *Antiquities of the Jews* (Book 20, Chapter 9, Section 1), written around AD 93, Josephus records an event directly involving the family of Jesus:
+Flavius Josephus was a first-century Romano-Jewish historian and military leader. He was not a Christian—in fact, he worked for the Romans. In his monumental work [*Antiquities of the Jews* (Book 20, Chapter 9, Section 1)](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0146%3Abook%3D20%3Asection%3D197), written around AD 93, Josephus records an event directly involving the family of Jesus:
 
 > *"Now there was about this time... the brother of Jesus, who was called Christ, whose name was James, and some others, and when he had formed an accusation against them as breakers of the law, he delivered them to be stoned."*
 
@@ -49,17 +49,17 @@ This is what historians call a **pass-through mention** or a "passing mention." 
 ## The Hostile & Neutral Observers
 
 ### Pliny the Younger (AD 112)
-Pliny the Younger, a Roman governor in Bithynia (modern-day Turkey), was tasked with dealing with the growing "problem" of Christians. In *Letters 10.96*, he writes to Emperor Trajan asking for advice on how to punish them. In his report, he accidentally documents early Christian worship:
+Pliny the Younger, a Roman governor in Bithynia (modern-day Turkey), was tasked with dealing with the growing "problem" of Christians. In [*Letters 10.96*](http://www.attalus.org/info/pliny_letters.html#10.96), he writes to Emperor Trajan asking for advice on how to punish them. In his report, he accidentally documents early Christian worship:
 
 > *"They were in the habit of meeting on a certain fixed day before it was light, when they sang in alternate verses a hymn to Christ, as to a god..."*
 
 ### Mara Bar-Serapion
-Sometime after AD 70, a Syrian stoic philosopher named Mara Bar-Serapion wrote a letter from prison to his son. He compares the execution of Jesus to the unjust deaths of Socrates and Pythagoras: 
+Sometime after AD 70, a Syrian stoic philosopher named Mara Bar-Serapion wrote a letter from prison to his son (preserved in a Syriac manuscript housed in the British Museum). He compares the execution of Jesus to the unjust deaths of Socrates and Pythagoras:
 
 > *"What advantage did the Athenians gain from putting Socrates to death... or the Jews by murdering their Wise King? ...The wise king did not die for good; he lived on in the teaching which he had given."*
 
 ### Lucian of Samosata (The Satirist)
-In the second century, the Greek satirist Lucian mocked Christians in his work *The Death of Peregrinus*. While his tone is intensely sarcastic, his mockery inadvertently verifies the crucifixion:
+In the second century, the Greek satirist Lucian mocked Christians in his work [*The Death of Peregrinus*](http://lucianofsamosata.info/The-Death-Of-Peregrinus.html#11). While his tone is intensely sarcastic, his mockery inadvertently verifies the crucifixion:
 
 > *"The Christians, you know, worship a man to this day—the distinguished personage who introduced their novel rites, and was crucified on that account... they have sinned by denying the Greek gods and by worshipping that crucified sage himself and living after his laws."*
 
