@@ -59,7 +59,7 @@ Sometime after AD 70, a Syrian stoic philosopher named [Mara Bar-Serapion](https
 > *"What advantage did the Athenians gain from putting Socrates to death... or the Jews by murdering their Wise King? ...The wise king did not die for good; he lived on in the teaching which he had given."*
 
 ### Lucian of Samosata (The Satirist)
-In the second century, the Greek satirist Lucian mocked Christians in his work [*The Death of Peregrinus*](http://lucianofsamosata.info/The-Death-Of-Peregrinus.html#11). While his tone is intensely sarcastic, his mockery inadvertently verifies the crucifixion:
+In the second century, the Greek satirist Lucian mocked Christians in his work [*The Death of Peregrinus*](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg042.perseus-eng4:11-13/). While his tone is intensely sarcastic, his mockery inadvertently verifies the crucifixion:
 
 > *"The Christians, you know, worship a man to this day—the distinguished personage who introduced their novel rites, and was crucified on that account... they have sinned by denying the Greek gods and by worshipping that crucified sage himself and living after his laws."*
 
