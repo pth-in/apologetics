@@ -49,7 +49,7 @@ This is what historians call a **pass-through mention** or a "passing mention." 
 ## The Hostile & Neutral Observers
 
 ### Pliny the Younger (AD 112)
-Pliny the Younger, a Roman governor in Bithynia (modern-day Turkey), was tasked with dealing with the growing "problem" of Christians. In [*Letters 10.96*](http://www.attalus.org/info/pliny_letters.html#10.96), he writes to Emperor Trajan asking for advice on how to punish them. In his report, he accidentally documents early Christian worship:
+Pliny the Younger, a Roman governor in Bithynia (modern-day Turkey), was tasked with dealing with the growing "problem" of Christians. In [*Letters 10.96*](https://faculty.georgetown.edu/jod/texts/pliny.html), he writes to Emperor Trajan asking for advice on how to punish them. In his report, he accidentally documents early Christian worship:
 
 > *"They were in the habit of meeting on a certain fixed day before it was light, when they sang in alternate verses a hymn to Christ, as to a god..."*
 
