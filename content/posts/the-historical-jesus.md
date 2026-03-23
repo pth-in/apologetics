@@ -69,8 +69,8 @@ In the second century, the Greek satirist Lucian mocked Christians in his work [
 
 Beyond ink and parchment, the physical dirt of the first-century world has continuously verified the historical context of the Gospel narratives.
 
-- **[The Pilate Stone](https://biblearchaeologyreport.com/2019/02/15/pilate-stone/):** For centuries, skeptics argued that Pontius Pilate was a fabricated figure since there was no archaeological record of him. That changed in 1961 when archaeologists in Caesarea Maritima uncovered a limestone block bearing the unmistakable inscription: *"Pontius Pilate, Prefect of Judea."* 
-- **[The Caiaphas Ossuary](https://cojs.org/caiaphas_ossuary-_18-36_ce/):** In 1990, construction workers in Jerusalem accidentally discovered a first-century burial cave. Inside was an ornate ossuary (bone box) belonging to a high priest. The inscription read: *"Joseph, son of Caiaphas"*—the physical remains of the very High Priest who presided over the trial of Jesus. 
+- **[The Pilate Stone](https://www.imj.org.il/en/collections/395572-0):** For centuries, skeptics argued that Pontius Pilate was a fabricated figure since there was no archaeological record of him. That changed in 1961 when archaeologists in Caesarea Maritima uncovered a limestone block bearing the unmistakable inscription: *"Pontius Pilate, Prefect of Judea."* 
+- **[The Caiaphas Ossuary](https://cojs.org/ossuary_of_the_high_priest_caiaphas-_18-36_ce/):** In 1990, construction workers in Jerusalem accidentally discovered a first-century burial cave. Inside was an ornate ossuary (bone box) belonging to a high priest. The inscription read: *"Joseph, son of Caiaphas"*—the physical remains of the very High Priest who presided over the trial of Jesus. 
 
 ---
 
