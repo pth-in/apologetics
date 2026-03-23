@@ -54,7 +54,7 @@ Pliny the Younger, a Roman governor in Bithynia (modern-day Turkey), was tasked 
 > *"They were in the habit of meeting on a certain fixed day before it was light, when they sang in alternate verses a hymn to Christ, as to a god..."*
 
 ### Mara Bar-Serapion
-Sometime after AD 70, a Syrian stoic philosopher named Mara Bar-Serapion wrote a letter from prison to his son (preserved in a Syriac manuscript housed in the British Museum). He compares the execution of Jesus to the unjust deaths of Socrates and Pythagoras:
+Sometime after AD 70, a Syrian stoic philosopher named [Mara Bar-Serapion](https://www.earlychristianwritings.com/text/mara.html) wrote a letter from prison to his son (preserved in a Syriac manuscript housed in the British Museum). He compares the execution of Jesus to the unjust deaths of Socrates and Pythagoras:
 
 > *"What advantage did the Athenians gain from putting Socrates to death... or the Jews by murdering their Wise King? ...The wise king did not die for good; he lived on in the teaching which he had given."*
 
