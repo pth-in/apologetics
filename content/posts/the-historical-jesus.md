@@ -88,13 +88,65 @@ Stay tuned for Part 2 in this series, where we will take a deep dive into the co
 
 ### Summary Table of Secular & Hostile Witnesses
 
-| Source | Approx. Date | Perspective | What They Confirm |
-| :--- | :--- | :--- | :--- |
-| **Tacitus** | AD 116 | Roman Historian | Jesus' execution at the hands of Pontius Pilate during the reign of Tiberius. |
-| **Suetonius** | AD 112 | Roman Historian | The existence of "Chrestus" (Christ) and the expulsion of early Jewish Christians from Rome. |
-| **Josephus** | AD 93 | Jewish Historian | Jesus existed, was called Christ, and was the brother of James who was executed. |
-| **Pliny the Younger** | AD 112 | Roman Governor | Early Christians passionately worshipped Christ "as to a god." |
-| **Mara Bar-Serapion** | Post-AD 70 | Syrian Stoic | The execution of the Jewish "Wise King" and the endurance of his teachings. |
-| **Lucian of Samosata** | 2nd Century | Greek Satirist | The crucifixion of the "sage" in Palestine and Christian devotion to his teachings. |
-| **Pilate Stone** | AD 26-36 | Roman Archaeology | The physical existence and exact title of the man who sentenced Jesus to death. |
-| **Caiaphas Ossuary** | 1st Century | Jewish Archaeology | The burial box of the High Priest involved in the trial of Jesus. |
+<div style="overflow-x: auto;">
+  <table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.95em; box-shadow: 0 0 20px rgba(0, 0, 0, 0.05); font-family: sans-serif;">
+    <thead>
+      <tr style="background-color: #f4f5f7; border-bottom: 2px solid #ddd; text-align: left;">
+        <th style="padding: 12px 15px;">Source</th>
+        <th style="padding: 12px 15px;">Approx. Date</th>
+        <th style="padding: 12px 15px;">Perspective</th>
+        <th style="padding: 12px 15px;">What They Confirm</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 15px;"><strong>Tacitus</strong></td>
+        <td style="padding: 12px 15px;">AD 116</td>
+        <td style="padding: 12px 15px;">Roman Historian</td>
+        <td style="padding: 12px 15px;">Jesus' execution at the hands of Pontius Pilate during the reign of Tiberius.</td>
+      </tr>
+      <tr style="background-color: #fafbfc; border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 15px;"><strong>Suetonius</strong></td>
+        <td style="padding: 12px 15px;">AD 112</td>
+        <td style="padding: 12px 15px;">Roman Historian</td>
+        <td style="padding: 12px 15px;">The existence of "Chrestus" (Christ) and the expulsion of early Jewish Christians from Rome.</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 15px;"><strong>Josephus</strong></td>
+        <td style="padding: 12px 15px;">AD 93</td>
+        <td style="padding: 12px 15px;">Jewish Historian</td>
+        <td style="padding: 12px 15px;">Jesus existed, was called Christ, and was the brother of James who was executed.</td>
+      </tr>
+      <tr style="background-color: #fafbfc; border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 15px;"><strong>Pliny the Younger</strong></td>
+        <td style="padding: 12px 15px;">AD 112</td>
+        <td style="padding: 12px 15px;">Roman Governor</td>
+        <td style="padding: 12px 15px;">Early Christians passionately worshipped Christ "as to a god."</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 15px;"><strong>Mara Bar-Serapion</strong></td>
+        <td style="padding: 12px 15px;">Post-AD 70</td>
+        <td style="padding: 12px 15px;">Syrian Stoic</td>
+        <td style="padding: 12px 15px;">The execution of the Jewish "Wise King" and the endurance of his teachings.</td>
+      </tr>
+      <tr style="background-color: #fafbfc; border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 15px;"><strong>Lucian of Samosata</strong></td>
+        <td style="padding: 12px 15px;">2nd Century</td>
+        <td style="padding: 12px 15px;">Greek Satirist</td>
+        <td style="padding: 12px 15px;">The crucifixion of the "sage" in Palestine and Christian devotion to his teachings.</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 15px;"><strong>Pilate Stone</strong></td>
+        <td style="padding: 12px 15px;">AD 26-36</td>
+        <td style="padding: 12px 15px;">Roman Archaeology</td>
+        <td style="padding: 12px 15px;">The physical existence and exact title of the man who sentenced Jesus to death.</td>
+      </tr>
+      <tr style="background-color: #fafbfc; border-bottom: 1px solid #eee;">
+        <td style="padding: 12px 15px;"><strong>Caiaphas Ossuary</strong></td>
+        <td style="padding: 12px 15px;">1st Century</td>
+        <td style="padding: 12px 15px;">Jewish Archaeology</td>
+        <td style="padding: 12px 15px;">The burial box of the High Priest involved in the trial of Jesus.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
