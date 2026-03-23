@@ -17,7 +17,9 @@ theme = 'simple-blog'
     weight = 1
 
 [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   [markup.highlight]
     style = "github"
     codeFences = true
-
