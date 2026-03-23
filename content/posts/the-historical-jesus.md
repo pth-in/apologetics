@@ -24,10 +24,14 @@ Cornelius Tacitus is known as one of the greatest Roman historians. In his book 
 
 > *"Nero fastened the guilt and inflicted the most exquisite tortures on a class hated for their abominations, called Christians by the populace. Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus..."*
 
+![Tacitus Original Text](https://raw.githubusercontent.com/pth-in/apologetics-assets/main/the-historical-jesus/01.png)
+
 Tacitus did not like Christians at all. Yet, he confirms exactly what the Bible says: the time, the place, and the man responsible (Pontius Pilate) for the death of Christ.
 
 ### Suetonius
 Another famous Roman historian named Suetonius wrote around AD 112 in his book [*Life of Claudius* (25.4)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html#25.4). He mentions that the Emperor kicked the Jews out of Rome because they were always fighting over "Chrestus." 
+
+![Suetonius Original Text](https://raw.githubusercontent.com/pth-in/apologetics-assets/main/the-historical-jesus/02.png)
 
 Experts know that "Chrestus" was a common misspelling of "Christus" (Christ). This shows that even decades after Jesus died, Roman leaders were still dealing with the massive impact of Him and His followers.
 
@@ -40,6 +44,8 @@ Flavius Josephus was a famous Jewish historian who worked for the Romans in the 
 
 > *"Now there was about this time... the brother of Jesus, who was called Christ, whose name was James, and some others, and when he had formed an accusation against them as breakers of the law, he delivered them to be stoned."*
 
+![Josephus Original Text](https://raw.githubusercontent.com/pth-in/apologetics-assets/main/the-historical-jesus/03.png)
+
 Historians love this kind of simple mention. Since Josephus just plainly refers to "the brother of Jesus... called Christ" without trying to preach or argue, historians consider it very authentic. To Josephus, the fact that Jesus existed wasn't even up for debate. 
 
 ---
@@ -51,15 +57,21 @@ Pliny the Younger was a Roman governor dealing with the "problem" of growing Chr
 
 > *"They were in the habit of meeting on a certain fixed day before it was light, when they sang in alternate verses a hymn to Christ, as to a god..."*
 
+![Pliny Original Text](https://raw.githubusercontent.com/pth-in/apologetics-assets/main/the-historical-jesus/04.png)
+
 ### Mara Bar-Serapion
 Sometime after AD 70, a Syrian philosopher named [Mara Bar-Serapion](https://www.earlychristianwritings.com/text/mara.html) wrote a letter from prison to his son (which is kept today in the British Museum). He compares the death of Jesus to the unfair deaths of famous thinkers like Socrates:
 
 > *"What advantage did... the Jews [gain] by murdering their Wise King? ...The wise king did not die for good; he lived on in the teaching which he had given."*
 
+![Mara Bar-Serapion Original Text](https://raw.githubusercontent.com/pth-in/apologetics-assets/main/the-historical-jesus/05.png)
+
 ### Lucian of Samosata (The Satirist)
 In the second century, a Greek writer named Lucian loved to make fun of Christians in his work [*The Death of Peregrinus*](https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg042.perseus-eng4:11-13/). Even though he is mocking them, he accidentally proves the crucifixion happened:
 
 > *"The Christians, you know, worship a man to this day... [who] was crucified on that account... they have sinned by denying the Greek gods and by worshipping that crucified sage himself..."*
+
+![Lucian of Samosata Original Text](https://raw.githubusercontent.com/pth-in/apologetics-assets/main/the-historical-jesus/06.png)
 
 ---
 
